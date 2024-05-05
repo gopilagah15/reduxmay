@@ -1,0 +1,40 @@
+{
+    "products":[
+    {
+        "id":1,
+        "name": "Samsung M40",
+        "color": "black",
+        "price": "15000",
+        "category": "mobile",
+        "brand":"Samsung",
+        "photo":"https://tse1.mm.bing.net/th?id=OIP.aPSgbcGxAoHERlO_ogd2-gHaHa&pid=Api&P=0&h=180"
+    },
+    {
+        "id":2,
+        "name": "Samsung F20",
+        "color": "white",
+        "price": "50000",
+        "category": "mobile",
+        "brand":"Samsung",
+        "photo":"https://tse1.mm.bing.net/th?id=OIP.aPSgbcGxAoHERlO_ogd2-gHaHa&pid=Api&P=0&h=180"
+    },
+    {
+        "id":3,
+        "name": "T-Shirt",
+        "color": "red",
+        "price": "5000",
+        "category": "clothes",
+        "brand":"Nike",
+        "photo":"https://tse1.mm.bing.net/th?id=OIP.aPSgbcGxAoHERlO_ogd2-gHaHa&pid=Api&P=0&h=180"
+    },
+    {
+        "id":1,
+        "name": "Sports shoes",
+        "color": "red and black",
+        "price": "8000",
+        "category": "shoes",
+        "brand":"Nike",
+        "photo":"https://tse1.mm.bing.net/th?id=OIP.aPSgbcGxAoHERlO_ogd2-gHaHa&pid=Api&P=0&h=180"
+    }
+    ]
+}
